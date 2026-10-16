@@ -1,1 +1,10 @@
-
+{
+  "version": "1.32",
+  "versionName": "1.32",
+  "versionCode": 34,
+  "package": "com.smartlink.voltstore",
+  "url": "https://github.com/alzaubi/volt_store/releases/download/v1.32/VOLT-Store-v1.32.apk",
+  "notes": "VOLT Store 1.32: dedicated volt_store update channel and obsolete Dropbox updater removed.",
+  "sha256": "C3B79FBA6B196671840DEB5657C34E8F803226E96FE5F4C4379A097B5E28F76E",
+  "size": 14615636
+}
